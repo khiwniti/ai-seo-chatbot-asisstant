@@ -1,0 +1,18 @@
+# Copyright (C) 2025 Your Name or Company
+# This file is distributed under the same license as the AI SEO Optimizer package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AI SEO Optimizer 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ai-seo-optimizer\n"
+"POT-Creation-Date: 2025-07-29 10:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Placeholder, generate this file properly using 'wp i18n make-pot . languages/ai-seo-optimizer.pot --domain=ai-seo-optimizer'
