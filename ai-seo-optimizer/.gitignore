@@ -1,0 +1,41 @@
+# WordPress specific
+wp-content/
+wp-admin/
+wp-includes/
+index.php
+xmlrpc.php
+wp-*.php
+*.log
+wp-config.php
+
+# Build files
+dist/
+build/
+node_modules/
+vendor/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Plugin/Theme specific (if any build process)
+*.zip
+*.gz
+*.phar
+
+# Composer
+composer.lock
+vendor/
